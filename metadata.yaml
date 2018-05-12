@@ -1,0 +1,51 @@
+_repo: Black-Tales-for-White-Children_38992
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Hargrave, John
+    birthdate: 1894
+    deathdate: 1982
+    gutenberg_agent_id: '1160'
+    url: http://www.gutenberg.org/2009/agents/1160
+    wikipedia: http://en.wikipedia.org/wiki/John_Hargrave
+covers:
+- cover_type: archival
+  image_path: 38992-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Stigand, Nancy Yulee (Neff)
+    alias: Stigand, Mrs. C. H. (Chauncy Hugh)
+    gutenberg_agent_id: '39761'
+    url: http://www.gutenberg.org/2009/agents/39761
+  - agent_name: Stigand, C. H. (Chauncy Hugh)
+    alias: Stigand, Chauncy Hugh
+    birthdate: 1877
+    deathdate: 1919
+    gutenberg_agent_id: '39760'
+    url: http://www.gutenberg.org/2009/agents/39760
+description: ''
+gutenberg_issued: '2012-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38992'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- Africa'
+- !lcsh 'Tales -- Africa'
+- !lcc 'PZ'
+tableOfContents: Foreword -- The lion of Manda -- Pemba Muhori -- The cat's tail --
+  The young thief -- The trapper, the lion and the hare -- Nunda the slayer and the
+  origin of the one-eyed -- The woodcutter and his donkey -- Kitangatanga of the sea
+  -- The lion's talisman -- The story of Kibaraka and the bird -- The story of the
+  fools -- The hyaena and the moonbeam -- The sultan's snake-child -- The poor man
+  and his wife of wood -- Binti Ali the clever -- Segu the honey-guide -- Lila and
+  Fila -- The story of the hunters and the big snake -- Ali of the crooked arm --
+  Feeding the hungry -- Shani and Tabak -- A man and his mother-in-law -- The jackal,
+  the hare and the cock -- The magic date trees -- Paka the cat -- The tale of the
+  merchant and his bag of gold -- Bata the duck -- The sultan's daughter -- The lion,
+  the hyaena and the hare.
+title: Black Tales for White Children
+url: http://www.gutenberg.org/ebooks/38992
